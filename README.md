@@ -1,3 +1,3 @@
 # latihanStash
-this is from local
-this is from REMOTE
+this is from local. <br />
+this is from REMOTE.
